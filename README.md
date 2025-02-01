@@ -57,7 +57,5 @@ Sistema rodando...
 ```
 
 ## Conclusão
-Este código demonstra um sistema simples de controle de LEDs utilizando o Raspberry Pi Pico. Ele pode ser expandido para aplicações como semáforos, sistemas de sinalização ou projetos interativos.
-
-Para futuras melhorias, pode-se adicionar um botão para interromper ou modificar a sequência dos LEDs.
+Este código demonstra um sistema simples de controle de LEDs utilizando o Raspberry Pi Pico. Ele pode ser expandido para aplicações como semáforos, sistemas de sinalização ou projetos interativos
 
